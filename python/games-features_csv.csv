@@ -1,0 +1,58 @@
+Gameid,Gamename,Category,Rating,ReleaseDate,Link,Sports,Shooting,Racing,Action-adventure,Strategy
+1000,Fifa 18,sports,5,29 September 2017,www.origin.com/ind/en-us/store/fifa/fifa-18/standard-edition,TRUE,FALSE,FALSE,FALSE,FALSE
+1001,Don Bradman Cricket 17,sports,3,December 22,www.microsoft.com/en-in/store/p/don-bradman-cricket-17/c4mmtdxpw01w,TRUE,FALSE,FALSE,FALSE,FALSE
+1002,NBA 2K18,sports,3,15 September 2017,www.microsoft.com/en-in/store/p/nba-2k18/bxl4538lk4dk,TRUE,FALSE,FALSE,FALSE,FALSE
+1003,WWE 2K18,sports,3.5,17 October 2017,www.amazon.in/2K-Games-WWE-2K18-PS4/dp/B073RM1XNG,TRUE,FALSE,FALSE,FALSE,FALSE
+1004,Football manager 18,sports,4.5,10 November 2017,www.amazon.in/Football-Manager-2018-Limited-PC/dp/B076PG2N1G,TRUE,FALSE,FALSE,FALSE,FALSE
+1005,UFC 2,sports,4,15 March 2016,www.microsoft.com/en-in/store/p/ea-sports-ufc-2/bpmmfjdvp9nf,TRUE,FALSE,FALSE,FALSE,FALSE
+1006,PES 2018,sports,4,9/16/2017,https://www.amazon.in/Konami-PES-2018-PC/dp/B075HFYYHL,TRUE,FALSE,FALSE,FALSE,FALSE
+1007,NFL 18,sports,2.5,"August 25, 2017",www.microsoft.com/en-in/store/p/madden-nfl-18/bs36xt3z5zkl,TRUE,FALSE,FALSE,FALSE,FALSE
+1008,Rocket league,sports,4.5,7 July 2015,www.amazon.in/Rocket-League-Collectors-Edition-PC/dp/B01FVTE1U4,TRUE,FALSE,FALSE,FALSE,FALSE
+1009,Call of duty:ww2,shooting,5,3 November 2017,www.callofduty.com/wwii/buy,FALSE,TRUE,FALSE,FALSE,FALSE
+1010,Wolfenstein 2: The New Colossus,shooting,1,27 October 2017,www.amazon.in/Wolfenstein-II-New-Colossus-PC/dp/B074MJD3RH,FALSE,TRUE,FALSE,FALSE,FALSE
+1011,Counter-Strike: Global Offensive,shooting,5,21 August 2012,www.amazon.in/Valve-G000004144-Counter-strike-Global-Offensive/dp/B009FZZUPQ,FALSE,TRUE,FALSE,FALSE,FALSE
+1012,Half-Life 2,shooting,3,16 November 2004,www.amazon.in/Half-Life-2-Episode-Pack-PC/dp/B001440YD4,FALSE,TRUE,FALSE,FALSE,FALSE
+1013,Doom,shooting,2,13 May 2016,www.amazon.in/Bethesda-Doom-PC/dp/B01E75FNA0,FALSE,TRUE,FALSE,FALSE,FALSE
+1014,Dota 2,shooting,4,9 July 2013,http://store.steampowered.com/app/570/Dota_2/,FALSE,TRUE,FALSE,FALSE,FALSE
+1015,Overwatch,shooting,4,24 May 2016,www.amazon.in/Blizzard-Entertainment-Overwatch-Origin-Edition/dp/B06Y1LV9V3,FALSE,TRUE,FALSE,FALSE,FALSE
+1016,Battlefield 4,shooting,2,29 October 2013,www.origin.com/ind/en-us/store/battlefield/battlefield-4/standard-edition,FALSE,TRUE,FALSE,FALSE,FALSE
+1017,Call of duty:Advanced warfare,shooting,2,4 November 2014,www.amazon.in/Call-Duty-Advanced-Warfare-PC/dp/B00P2CK9HK,FALSE,TRUE,FALSE,FALSE,FALSE
+1018,Titanfall,shooting,5,11 March 2014,www.amazon.in/Electronic-Arts-G000006414-Titanfall-PC/dp/B00HR4MYW4,FALSE,TRUE,FALSE,FALSE,FALSE
+1019,Project igi,shooting,1.5,15 December 2000,www.amazon.in/Project-IGI-Im-Going-PC/dp/B00004WI4D,FALSE,TRUE,FALSE,FALSE,FALSE
+1020,Call of Duty 4: Modern Warfare,shooting,4.5,5 November 2007,www.amazon.in/Call-Duty-4-Modern-Warfare/dp/B00LZTA4TW,FALSE,TRUE,FALSE,FALSE,FALSE
+1021,Sniper:ghost warrior 3,shooting,2.5,25 April 2017,www.amazon.in/Sniper-Ghost-Warrior-Season-Pass/dp/B01N5JFDWH,FALSE,TRUE,FALSE,FALSE,FALSE
+1022,Midnight club 2,racing,3.5,9 April 2003,www.rockstargames.com/midnightclub2/,FALSE,FALSE,TRUE,FALSE,FALSE
+1023,Forza Horizon 3,racing,4.5,27 September 2016,www.microsoft.com/en-in/store/p/forza-horizon-3/9nblggh1z7tw,FALSE,FALSE,TRUE,FALSE,FALSE
+1024,Need for speed:underground,racing,4,17 November 2003,www.amazon.in/Need-for-Speed-Underground-PC/dp/B0000C0Z23,FALSE,FALSE,TRUE,FALSE,FALSE
+1025,Need for speed:most wanted,racing,3.5,30 October 2012,www.origin.com/ind/en-us/store/need-for-speed/need-for-speed-most-wanted/standard-edition,FALSE,FALSE,TRUE,FALSE,FALSE
+1026,DiRT Rally,racing,2,7 December 2015,www.amazon.in/Codemasters-Dirt-Rally-PC/dp/B01CQN4WFC,FALSE,FALSE,TRUE,FALSE,FALSE
+1027,Driver: San Francisco,racing,4,1 September 2011,www.amazon.in/Driver-San-Francisco-PC-DVD/dp/B00APW1UZW,FALSE,FALSE,TRUE,FALSE,FALSE
+1028,Shift 2,racing,1,29 March 2011,www.amazon.in/Electronic-Arts-Shift-2-Unleashed/dp/B00ABCBZE2,FALSE,FALSE,TRUE,FALSE,FALSE
+1029,F1 2017,racing,5,25 August 2017,www.amazon.in/Electronic-Arts-Shift-2-Unleashed/dp/B00ABCBZE2,FALSE,FALSE,TRUE,FALSE,FALSE
+1030,Grand turismo 6,racing,3,5 December 2013,www.amazon.in/Sony-98296-Gran-Turismo-PS3/dp/B00CRL9TU2,FALSE,FALSE,TRUE,FALSE,FALSE
+1031,Roadrash,racing,3,1991,www.amazon.in/Dice-Road-Rash/dp/B000AO7SLU,FALSE,FALSE,TRUE,FALSE,FALSE
+1032,Motogp 16,racing,2.5,16 June 2016,www.amazon.in/MotoGP-14-Standard-Edition-PC/dp/B00K7ZAN6E,FALSE,FALSE,TRUE,FALSE,FALSE
+1033,NFS 3,racing,4,25 March 1998,www.amazon.com/Need-Speed-III-Hot-Pursuit-pc/dp/B00001NTSG,FALSE,FALSE,TRUE,FALSE,FALSE
+1034,Motogp 17,racing,5,15 June 2017,www.microsoft.com/en-in/store/p/motogp-17/bv559lh6rts1,FALSE,FALSE,TRUE,FALSE,FALSE
+1035,Gta 5,action-adventure,5,17 September 2013,www.rockstargames.com/V/order,FALSE,FALSE,FALSE,TRUE,FALSE
+1036,Far cry 4,action-adventure,5,18 November 2014,www.amazon.in/UBI-Soft-Far-Cry-PC/dp/B00L8XUCTC,FALSE,FALSE,FALSE,TRUE,FALSE
+1037,Gta:Vice city,action-adventure,2.5,27 October 2002,www.amazon.in/Grand-Theft-Auto-Vice-City/dp/B009X4Y6FO,FALSE,FALSE,FALSE,TRUE,FALSE
+1038,Gta:San andreas,action-adventure,5,26 October 2004,www.amazon.in/Grand-Theft-Auto-San-Andreas/dp/B0078JXQNY,FALSE,FALSE,FALSE,TRUE,FALSE
+1039,Watch dogs 2,action-adventure,4.5,15 November 2016,www.flipkart.com/watch-dogs-2/p/itmejj4kpqdxuugx,FALSE,FALSE,FALSE,TRUE,FALSE
+1040,Sleeping dogs,action-adventure,1.5,14 August 2012,www.amazon.in/Sleeping-Dogs-Definitive-Edition-PC/dp/B00N9SWHLK,FALSE,FALSE,FALSE,TRUE,FALSE
+1041,Batman: Arkham Asylum,action-adventure,4,25 August 2009,www.flipkart.com/batman-arkham-asylum-game-year-edition/p/itmdwujr65kszxfu,FALSE,FALSE,FALSE,TRUE,FALSE
+1042,Assassin's Creed II,action-adventure,3,17 November 2009,www.amazon.in/UBI-Soft-008888685340-Assassins-Creed/dp/B001TOQ8R0,FALSE,FALSE,FALSE,TRUE,FALSE
+1043,Tomb raider,action-adventure,3,5 March 2013,www.microsoft.com/en-in/store/p/rise-of-the-tomb-raider/9nblggh6crsz,FALSE,FALSE,FALSE,TRUE,FALSE
+1044,God of War III,action-adventure,2,16 March 2010,www.flipkart.com/god-war-iii-remastered/p/itme7yg8evuumq62,FALSE,FALSE,FALSE,TRUE,FALSE
+1045,The Last of Us,action-adventure,2.5,14 June 2013,www.amazon.in/Sony-98174-The-Last-of/dp/B007CM0K86,FALSE,FALSE,FALSE,TRUE,FALSE
+1046,Prince of Persia:Sands of time,action-adventure,1,28 October 2003,www.amazon.in/Prince-Persia-Sands-Time-PC/dp/B0067HKGQ8,FALSE,FALSE,FALSE,TRUE,FALSE
+1047,Horizon zero dawn,action-adventure,1,28 February 2017,www.amazon.in/Sony-3002712-Horizon-Zero-Dawn/dp/B076BJ723V,FALSE,FALSE,FALSE,TRUE,FALSE
+1048,Uncharted 3: Drake's Deception,action-adventure,3.5,1 November 2011,www.amazon.in/Uncharted-3-Drakes-Deception-PS3/dp/B0078JXD5A,FALSE,FALSE,FALSE,TRUE,FALSE
+1049,Age of empires 2,stratergy,2.5,30 September 1999,www.amazon.in/Age-Empires-Kings-PC/dp/B00002NDRY,FALSE,FALSE,FALSE,FALSE,TRUE
+1050,Sim city 4,stratergy,4,14 January 2003,www.amazon.in/Cosmi-30134-SimCity-4-PC/dp/B002S1CMHI,FALSE,FALSE,FALSE,FALSE,TRUE
+1051,Total War: Warhammer 2,stratergy,2,28 September 2017,www.amazon.in/Total-War-Warhammer-II-PC/dp/B074MDBSVL,FALSE,FALSE,FALSE,FALSE,TRUE
+1052,Age of empires 3,stratergy,1.5,18 October 2005,www.amazon.in/Age-Empires-III-Complete-Collection/dp/B002MUO6CE,FALSE,FALSE,FALSE,FALSE,TRUE
+1053,Into the Breach,stratergy,1,27 February 2018,http://store.steampowered.com/app/590380/Into_the_Breach/,FALSE,FALSE,FALSE,FALSE,TRUE
+1054,Field of Glory II,stratergy,5,"Oct 12, 2017",http://store.steampowered.com/app/660160/Field_of_Glory_II/,FALSE,FALSE,FALSE,FALSE,TRUE
+1055,Rollercoster 2,stratergy,1.5,3 October 2002,www.amazon.in/Atari-RollerCoaster-Tycoon-2-PC/dp/B0000695GX,FALSE,FALSE,FALSE,FALSE,TRUE
+1056,Starcraft Remastered,stratergy,4.5,30 July 2017,us.shop.battle.net/en-us/product/starcraft-remastered,FALSE,FALSE,FALSE,FALSE,TRUE
